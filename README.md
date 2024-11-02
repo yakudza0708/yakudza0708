@@ -39,8 +39,7 @@
 <br />
 
 ### Connect with me:
-
-<a href="mailto:yakudzadev0708@gmail.com?Subject=Hello%20again" target="_top"> <img align="center" src="https://www.svgrepo.com/download/452213/gmail.svg" alt="mailto:yakudzadev0708@gmail.com?Subject=Hello%20again" height="30" width="40" /></a>&nbsp;
+Soon...
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
