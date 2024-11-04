@@ -37,9 +37,6 @@
 <img align="left" alt="GitHub" width="32px" src="https://www.svgrepo.com/download/475654/github-color.svg" />
 
 <br />
-
-
-
 ### Connect with me:
 Soon...
 
