@@ -37,8 +37,9 @@
 <img align="left" alt="GitHub" width="32px" src="https://www.svgrepo.com/download/475654/github-color.svg" />
 
 <br />
+
 ### Connect with me:
-Soon...
+Coming soon...
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
