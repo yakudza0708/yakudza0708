@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F39DF7&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+beginner+.NET+developer.)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm yakudza</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F39DF7&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+beginner+.NET+developer.)](https://git.io/typing-svg)
 <div align="center">
-
-
 <img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif" alt="Pixel Art" align="right" width="250">
 
 </div>
