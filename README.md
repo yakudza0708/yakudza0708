@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm yakudza</h1>
 <div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F39DF7&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+beginner+.NET+developer.)](https://git.io/typing-svg)
 
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F39DF7&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+beginner+.NET+developer.)](https://git.io/typing-svg)
 
 <h3>
 <img align="center" alt="Russia" width="32px" src="https://www.svgrepo.com/download/508628/flag-ru.svg" /></h3>
