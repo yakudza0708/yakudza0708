@@ -8,12 +8,19 @@ Backend Developer from Russia
 <img align="center" alt="Russia" width="32px" src="https://www.svgrepo.com/download/508628/flag-ru.svg" />
 </h3>
 
+<div id="socials" align="center">
+ <a href="https://t.me/warden_sw" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+<a href="mailto:yakudzadev0708@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+### 🥷About me
+
 - 🔭 My projects: Temporarily absent
 - 🌱 I’m currently learning **Python, Java**
 
 - 📫 How to reach me **yakudzadev0708@gmail.com**
 
-### My stack
+### 🔥My stack
 
 <img align="left" alt="Java" width="32px" src="https://www.svgrepo.com/download/452234/java.svg" />
 
@@ -43,12 +50,8 @@ Backend Developer from Russia
 
 <br />
 
-### Connect with me:
-<div> 
-  <a href="https://t.me/warden_sw" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  <a href="mailto:yakudzadev0708@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+### 👨🏻‍💻My stat
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
