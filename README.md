@@ -1,11 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F39DF7&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+beginner+.NET+developer.)]
-<div align="center">
-<img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif" alt="Pixel Art" align="right" width="250">
+<h1 align="center">Hi 👋, I'm yakudza </h1>
 
+<div align="center">
 </div>
 
-<h3>
-<img align="center" alt="Russia" width="32px" src="https://www.svgrepo.com/download/508628/flag-ru.svg" /></h3>
+<h3 align="center">
+Backend Developer from Russia
+<img align="center" alt="Russia" width="32px" src="https://www.svgrepo.com/download/508628/flag-ru.svg" />
+</h3>
 
 - 🔭 My projects: Temporarily absent
 - 🌱 I’m currently learning **Python, Java**
@@ -28,6 +29,8 @@
 
 <img align="left" alt="PostgreSQL" width="32px" src="https://www.svgrepo.com/download/354200/postgresql.svg" />
 
+<img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
 <img align="left" alt="Docker" width="32px" src="https://www.svgrepo.com/download/452192/docker.svg" />
 
 <img align="left" alt="MongoDB" width="32px" src="https://www.svgrepo.com/download/331488/mongodb.svg" />
@@ -41,7 +44,11 @@
 <br />
 
 ### Connect with me:
-Coming soon...
-
+<div> 
+  <a href="https://t.me/warden_sw" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  <a href="mailto:yakudzadev0708@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+
