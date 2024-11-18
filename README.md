@@ -36,7 +36,7 @@ Backend Developer from Russia
 
 <img align="left" alt="PostgreSQL" width="32px" src="https://www.svgrepo.com/download/354200/postgresql.svg" />
 
-<img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" alt="VS-Code" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 <img align="left" alt="Docker" width="32px" src="https://www.svgrepo.com/download/452192/docker.svg" />
 
