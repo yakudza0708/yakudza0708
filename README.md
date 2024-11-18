@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm yakudza </h1>
 
-<div align="center">
-</div>
-
 <h3 align="center">
 Backend Developer from Russia
 <img align="center" alt="Russia" width="32px" src="https://www.svgrepo.com/download/508628/flag-ru.svg" />
