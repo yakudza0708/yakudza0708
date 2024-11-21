@@ -12,7 +12,7 @@ Backend Developer from Russia
 
 ### 🥷About me
 
-- 🔭 My projects: Temporarily absent
+- 🔭 My projects: Comming soon... 
 - 🌱 I’m currently learning **Python, Java**
 
 - 📫 How to reach me **yakudzadev0708@gmail.com**
