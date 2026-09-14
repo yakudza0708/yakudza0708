@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090909,55:171717,100:b91c1c&text=YAKUDZA&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=DEVOPS%20ENGINEER&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="YAKUDZA — DevOps Engineer" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/183637976?v=4" width="170" alt="yakudza" />
-</p>
-
 <h3 align="center">Infrastructure that stays up. Deployments that stay boring.</h3>
 
 <p align="center">
