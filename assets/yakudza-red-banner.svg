@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="280" viewBox="0 0 1100 280" role="img" aria-labelledby="title desc">
+<title id="title">Yakudza developer banner</title>
+<desc id="desc">Black and red Japanese cyberpunk banner with a katana-shaped code slash.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#030303"/>
+    <stop offset=".55" stop-color="#080808"/>
+    <stop offset="1" stop-color="#140303"/>
+  </linearGradient>
+  <linearGradient id="blade" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#450a0a"/>
+    <stop offset=".45" stop-color="#ef4444"/>
+    <stop offset=".62" stop-color="#fee2e2"/>
+    <stop offset="1" stop-color="#7f1d1d"/>
+  </linearGradient>
+  <radialGradient id="sun">
+    <stop stop-color="#ef4444" stop-opacity=".95"/>
+    <stop offset=".7" stop-color="#b91c1c" stop-opacity=".82"/>
+    <stop offset="1" stop-color="#450a0a" stop-opacity=".38"/>
+  </radialGradient>
+  <pattern id="grain" width="17" height="17" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r=".7" fill="#ef4444" opacity=".1"/>
+    <circle cx="11" cy="8" r=".5" fill="#ffffff" opacity=".05"/>
+  </pattern>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="1100" height="280" rx="18" fill="url(#bg)"/>
+<rect width="1100" height="280" rx="18" fill="url(#grain)"/>
+<path d="M0 232L1100 48" stroke="#7f1d1d" stroke-opacity=".16"/>
+<path d="M0 248L1100 64" stroke="#ef4444" stroke-opacity=".06"/>
+
+<g opacity=".93">
+  <circle cx="886" cy="139" r="104" fill="url(#sun)"/>
+  <circle cx="886" cy="139" r="104" fill="none" stroke="#fca5a5" stroke-opacity=".17"/>
+  <circle cx="886" cy="139" r="79" fill="none" stroke="#450a0a" stroke-width="1.5" stroke-dasharray="2 8"/>
+  <path d="M762 211L1006 62" stroke="#050505" stroke-width="18" stroke-linecap="round"/>
+  <path d="M769 205L1000 66" stroke="url(#blade)" stroke-width="5" stroke-linecap="round" filter="url(#glow)"/>
+  <path d="M742 219l34-21" stroke="#d4d4d4" stroke-width="8"/>
+  <path d="M728 229l22-14" stroke="#7f1d1d" stroke-width="14" stroke-linecap="round"/>
+  <path d="M725 224l-23 14" stroke="#262626" stroke-width="11" stroke-linecap="round"/>
+  <text x="1012" y="91" fill="#fca5a5" font-family="monospace" font-size="20" opacity=".82">ヤ</text>
+  <text x="1012" y="120" fill="#fca5a5" font-family="monospace" font-size="20" opacity=".82">ク</text>
+  <text x="1012" y="149" fill="#fca5a5" font-family="monospace" font-size="20" opacity=".82">ザ</text>
+</g>
+
+<g font-family="'Courier New',monospace">
+  <text x="58" y="48" fill="#ef4444" font-size="12" letter-spacing="3">SYSTEM // ONLINE</text>
+  <circle cx="39" cy="44" r="4" fill="#ef4444" filter="url(#glow)"/>
+  <text x="55" y="119" fill="#fafafa" font-size="66" font-weight="700" letter-spacing="7">YAKUDZA</text>
+  <text x="59" y="151" fill="#ef4444" font-size="14" letter-spacing="2">PRIVACY SYSTEMS  /  VPN TOOLING  /  OPEN SOURCE</text>
+  <rect x="58" y="180" width="572" height="42" rx="5" fill="#0a0a0a" stroke="#7f1d1d"/>
+  <text x="76" y="206" fill="#737373" font-size="14">root@yakudza:~$</text>
+  <text x="229" y="206" fill="#e5e5e5" font-size="14">build --clean --reliable</text>
+  <rect x="436" y="192" width="8" height="17" fill="#ef4444"/>
+</g>
+
+<g fill="none" stroke="#ef4444" stroke-width="2" opacity=".65">
+  <path d="M18 42V18H42"/>
+  <path d="M1058 18h24v24"/>
+  <path d="M18 238v24h24"/>
+  <path d="M1058 262h24v-24"/>
+</g>
+<rect x=".75" y=".75" width="1098.5" height="278.5" rx="17.25" fill="none" stroke="#7f1d1d" stroke-width="1.5"/>
+</svg>
