@@ -1,61 +1,48 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090909,55:171717,100:b91c1c&text=YAKUDZA&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=DEVOPS%20ENGINEER&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="YAKUDZA — DevOps Engineer" />
-</p>
-
-<h3 align="center">Infrastructure that stays up. Deployments that stay boring.</h3>
-
-<p align="center">
-  Linux infrastructure · Containers · CI/CD · Networking · Observability
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0d1117,100:7f1d1d&text=YAKUDZA&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Infrastructure%20%E2%80%A2%20Networks%20%E2%80%A2%20Automation&descAlignY=66&descSize=15" width="100%" alt="YAKUDZA" />
 </p>
 
 <p align="center">
-  <a href="https://t.me/warden_sw"><img src="https://img.shields.io/badge/Telegram-171717?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram" /></a>
-  <a href="mailto:yakudzadev0708@gmail.com"><img src="https://img.shields.io/badge/Email-b91c1c?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Linux+%7C+Docker+%7C+Networking+%7C+Observability;Building+tools+for+the+Xray+ecosystem" alt="Typing SVG" /></a>
 </p>
 
----
-
-### About
-
-I'm a DevOps engineer focused on reliable infrastructure, automation, and network services. I build and maintain Linux-based systems, containerized workloads, delivery pipelines, reverse proxies, VPN nodes, and monitoring.
-
-- Automating repeatable infrastructure and deployment work
-- Operating Docker-based services on VPS and dedicated servers
-- Building resilient network and VPN infrastructure
-- Improving visibility with metrics, logs, and actionable alerts
-- Writing small tools and integrations in Python and Bash
-
-### Core stack
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/NGINX-111111?style=for-the-badge&logo=nginx&logoColor=009639" alt="NGINX" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Ansible-111111?style=for-the-badge&logo=ansible&logoColor=EE0000" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=844FBA" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Prometheus-111111?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<p align="center">
+  <a href="https://t.me/warden_sw"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=ef4444" alt="Telegram" /></a>
+  <a href="mailto:yakudzadev0708@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email" /></a>
 </p>
 
-### Current focus
+## `01. SYSTEM PROFILE`
 
 ```text
-reliability  > decoration
-automation   > repetition
-visibility   > guesswork
-simple       > clever
+Role       DevOps Engineer
+Focus      VPN infrastructure, automation, monitoring
+Platform   Linux, Docker, Nginx, VPS
+Network    Xray-core, routing, DNS, reverse proxy
+Code       Bash, Python, TypeScript
 ```
+
+## `02. FEATURED PROJECTS`
+
+<p align="center">
+  <a href="https://github.com/yakudza0708/teapod-stream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yakudza0708&repo=teapod-stream&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" alt="TeapodStream" /></a>
+  <a href="https://github.com/yakudza0708/xray-config-ui-editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yakudza0708&repo=xray-config-ui-editor&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" alt="Xray Config UI Editor" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yakudza0708/UptimeKit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yakudza0708&repo=UptimeKit&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" alt="UptimeKit" /></a>
+</p>
+
+## `03. TOOLCHAIN`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions,bash,python,ts,nodejs,postgres,grafana,prometheus&theme=dark&perline=12" alt="DevOps toolchain" />
+</p>
+
+## `04. TELEMETRY`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yakudza0708&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakudza0708&layout=compact&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9" height="165" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=yakudza0708&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" height="165" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <sub>Build it. Automate it. Observe it. Improve it.</sub>
-</p>
+<p align="center"><code>DEPLOY → OBSERVE → RECOVER → IMPROVE</code></p>
