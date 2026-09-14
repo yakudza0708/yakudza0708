@@ -34,7 +34,7 @@ I'm a DevOps engineer focused on reliable infrastructure, automation, and networ
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Ansible-111111?style=for-the-badge&logo=ansible&logoColor=ffffff" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Xray-111111?style=for-the-badge&labelColor=111111&color=EF4444" alt="Xray" />
+  <img src="https://img.shields.io/badge/Xray-111111?style=for-the-badge" alt="Xray" />
   <img src="https://img.shields.io/badge/WireGuard-111111?style=for-the-badge&logo=wireguard&logoColor=88171A" alt="WireGuard" />
   <br /><br />
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
