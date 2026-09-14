@@ -1,56 +1,65 @@
-<h1 align="center">Hi 👋, I'm yakudza </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090909,55:171717,100:b91c1c&text=YAKUDZA&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=DEVOPS%20ENGINEER&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="YAKUDZA — DevOps Engineer" />
+</p>
 
-<h3 align="center">
-Backend Developer from Russia
-<img align="center" alt="Russia" width="32px" src="https://www.svgrepo.com/download/508628/flag-ru.svg" />
-</h3>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/183637976?v=4" width="170" alt="yakudza" />
+</p>
 
-<div id="socials" align="center">
-<a href="https://t.me/warden_sw" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-<a href="mailto:yakudzadev0708@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<h3 align="center">Infrastructure that stays up. Deployments that stay boring.</h3>
 
-### 🥷About me
+<p align="center">
+  Linux infrastructure · Containers · CI/CD · Networking · Observability
+</p>
 
-- 🔭 My projects: Comming soon... 
-- 🌱 I’m currently learning **Python, Java**
+<p align="center">
+  <a href="https://t.me/warden_sw"><img src="https://img.shields.io/badge/Telegram-171717?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram" /></a>
+  <a href="mailto:yakudzadev0708@gmail.com"><img src="https://img.shields.io/badge/Email-b91c1c?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
+</p>
 
-- 📫 How to reach me **yakudzadev0708@gmail.com**
+---
 
-### 🔥My stack
+### About
 
-<img align="left" alt="Java" width="32px" src="https://www.svgrepo.com/download/452234/java.svg" />
+I'm a DevOps engineer focused on reliable infrastructure, automation, and network services. I build and maintain Linux-based systems, containerized workloads, delivery pipelines, reverse proxies, VPN nodes, and monitoring.
 
-<img align="left" alt="Python" width="32px" src="https://www.svgrepo.com/download/452091/python.svg" />
+- Automating repeatable infrastructure and deployment work
+- Operating Docker-based services on VPS and dedicated servers
+- Building resilient network and VPN infrastructure
+- Improving visibility with metrics, logs, and actionable alerts
+- Writing small tools and integrations in Python and Bash
 
-<img align="left" alt="JavaScript" width="32px" src="https://www.svgrepo.com/download/349419/javascript.svg" />
+### Core stack
 
-<img align="left" alt="HTML" width="32px" src="https://www.svgrepo.com/download/452228/html-5.svg" />
+<p>
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/NGINX-111111?style=for-the-badge&logo=nginx&logoColor=009639" alt="NGINX" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Ansible-111111?style=for-the-badge&logo=ansible&logoColor=EE0000" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=844FBA" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Prometheus-111111?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+</p>
 
-<img align="left" alt="CSS" width="32px" src="https://www.svgrepo.com/download/452185/css-3.svg" />
+### Current focus
 
-<img align="left" alt="MySQL" width="32px" src="https://www.svgrepo.com/download/303251/mysql-logo.svg" />
+```text
+reliability  > decoration
+automation   > repetition
+visibility   > guesswork
+simple       > clever
+```
 
-<img align="left" alt="PostgreSQL" width="32px" src="https://www.svgrepo.com/download/354200/postgresql.svg" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yakudza0708&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakudza0708&layout=compact&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9" height="165" alt="Top languages" />
+</p>
 
-<img align="center" alt="VS-Code" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-<img align="left" alt="Docker" width="32px" src="https://www.svgrepo.com/download/452192/docker.svg" />
-
-<img align="left" alt="MongoDB" width="32px" src="https://www.svgrepo.com/download/331488/mongodb.svg" />
-
-<img align="left" alt="DJango" width="32px" src="https://www.svgrepo.com/download/373554/django.svg" />
-
-<img align="left" alt="Git" width="32px" src="https://www.svgrepo.com/download/452210/git.svg" />
-
-<img align="left" alt="GitHub" width="32px" src="https://www.svgrepo.com/download/475654/github-color.svg" />
-
-<br />
-
-
-
-### 👨🏻‍💻My stat
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <sub>Build it. Automate it. Observe it. Improve it.</sub>
+</p>
